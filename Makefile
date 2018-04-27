@@ -1,4 +1,4 @@
-CC = gcc
+CC = gcc -std=gnu99
 
 all:
 	$(CC) -o disk disk.c
