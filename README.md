@@ -1,7 +1,14 @@
 # disk-explorer
 
-Để biên dịch, chạy lệnh make
-$ make
+## Compiling
+
+### Ubuntu/Debian
+
+  apt-get install build-essential
+  
+### CentOS/RHEL
+
+  yum groupinstall 'Development Tools'
 
 Chức năng 1: (đã xong) Xem thông tin của đĩa và phân vùng chứa trong đĩa
 Cú pháp
